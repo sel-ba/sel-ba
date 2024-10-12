@@ -1,4 +1,4 @@
-<h1 align="left">Hi ! I'm Souhaib an artificial intelligence engineering student at ENSIAS, and a part of 1337-cursus .</h1>
+<h1 align="left">Hi ! I'm Souhaib an artificial intelligence engineering student at ENSIAS, and a student at 1337.</h1>
 
 ###
 
