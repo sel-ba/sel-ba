@@ -44,12 +44,3 @@
   <a href="sohayb_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sel-ba/sel-ba/output/snake.svg" alt="Snake animation" />
-
-###
