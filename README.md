@@ -1,4 +1,4 @@
-<h1 align="left">I’m Souhaib, i am studying Artificial Intelligence
+<h1 align="left">I’m Souhaib, I'm studying Artificial Intelligence
 Engineering at ENSIAS while also honing my skills as a student at 1337 Rabat</h1>
 
 ###
