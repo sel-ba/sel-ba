@@ -1,4 +1,5 @@
-<h1 align="left">Hi ! I'm Souhaib an artificial intelligence engineering student at ENSIAS, and in parallel a 1337 student.</h1>
+<h1 align="left">Hi ! I’m Souhaib, currently pursuing a dual academic path. I am studying Artificial Intelligence
+Engineering at ENSIAS while also honing my skills as a student at 1337 Rabat</h1>
 
 ###
 
