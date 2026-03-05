@@ -2,4 +2,4 @@
 
 ###
 
-<img align="right" height="160" src="https://media1.tenor.com/m/DFV3AwjrN98AAAAC/fastest-lap-max-verstappen.gif"  />
+<img src="https://media1.tenor.com/m/2QKqEPpxYXgAAAAC/lain-serial-experiments-lain.gif" width="100%" />
