@@ -1,4 +1,4 @@
-<h1 align="left">Souhaib | AI Engineering Student at ENSIAS | IT Architect Student at 1337 Rabat</h1>
+<h1 align="left">Souhaib | studying AI Engineering at ENSIAS & IT Architecture at 1337 Rabat</h1>
 
 ###
 
